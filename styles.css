@@ -1,0 +1,17 @@
+
+h1{ 
+    text-align: center;
+    color: green;
+ }
+
+p{ 
+   color: #AACCAA;
+ }
+
+a{ 
+   color: red;
+ }
+
+a:hover{ 
+         color: blue;
+ }
